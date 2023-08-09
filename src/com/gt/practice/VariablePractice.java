@@ -1,6 +1,6 @@
 package com.gt.practice;
 
-public class VariablePractice {
+public class VariablePractice{
     static int bangladesh=432;
     public static void main(String[] args) {
         //varPractice();
